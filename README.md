@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/alexaandru?label=Follow&style=social)](https://github.com/alexaandru)
 
-I love [Go](https://golang.org), [Neovim](https://neovim.io/) & lately [Lua](http://www.lua.org/).
+I love [Go](https://golang.org), [Neovim](https://neovim.io/) & lately [~~Lua~~](http://www.lua.org/) [Fennel](https://fennel-lang.org/).
 
 Programming since 1999 (technically, since 1995 - when I had my 1st programming class at the Faculty of Economic Sciences, using **Turbo Pascal**).
 
